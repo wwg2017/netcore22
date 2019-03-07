@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Temp\\NetCore22\\Model\\AModel.csproj",
+      "projectUniqueName": "I:\\GitCode\\netcore22\\Model\\AModel.csproj",
       "projectName": "AModel",
-      "projectPath": "H:\\Temp\\NetCore22\\Model\\AModel.csproj",
+      "projectPath": "I:\\GitCode\\netcore22\\Model\\AModel.csproj",
       "packagesPath": "C:\\Users\\wwg\\.nuget\\packages\\",
-      "outputPath": "H:\\Temp\\NetCore22\\Model\\obj\\",
+      "outputPath": "I:\\GitCode\\netcore22\\Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

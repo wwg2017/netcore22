@@ -21,3 +21,15 @@ H:\Temp\NetCore22\AComm\obj\Debug\netcoreapp2.2\AComm.AssemblyInfo.cs
 H:\Temp\NetCore22\AComm\obj\Debug\netcoreapp2.2\AComm.csproj.CopyComplete
 H:\Temp\NetCore22\AComm\obj\Debug\netcoreapp2.2\AComm.dll
 H:\Temp\NetCore22\AComm\obj\Debug\netcoreapp2.2\AComm.pdb
+I:\GitCode\netcore22\AComm\bin\Debug\netcoreapp2.2\AComm.deps.json
+I:\GitCode\netcore22\AComm\bin\Debug\netcoreapp2.2\AComm.dll
+I:\GitCode\netcore22\AComm\bin\Debug\netcoreapp2.2\AComm.pdb
+I:\GitCode\netcore22\AComm\bin\Debug\netcoreapp2.2\MySql.Data.dll
+I:\GitCode\netcore22\AComm\bin\Debug\netcoreapp2.2\MySql.Data.xml
+I:\GitCode\netcore22\AComm\obj\Debug\netcoreapp2.2\AComm.csprojAssemblyReference.cache
+I:\GitCode\netcore22\AComm\obj\Debug\netcoreapp2.2\AComm.csproj.CoreCompileInputs.cache
+I:\GitCode\netcore22\AComm\obj\Debug\netcoreapp2.2\AComm.AssemblyInfoInputs.cache
+I:\GitCode\netcore22\AComm\obj\Debug\netcoreapp2.2\AComm.AssemblyInfo.cs
+I:\GitCode\netcore22\AComm\obj\Debug\netcoreapp2.2\AComm.csproj.CopyComplete
+I:\GitCode\netcore22\AComm\obj\Debug\netcoreapp2.2\AComm.dll
+I:\GitCode\netcore22\AComm\obj\Debug\netcoreapp2.2\AComm.pdb

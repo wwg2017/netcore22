@@ -708,11 +708,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Temp\\NetCore22\\IAService\\IAService.csproj",
+      "projectUniqueName": "I:\\GitCode\\netcore22\\IAService\\IAService.csproj",
       "projectName": "IAService",
-      "projectPath": "H:\\Temp\\NetCore22\\IAService\\IAService.csproj",
+      "projectPath": "I:\\GitCode\\netcore22\\IAService\\IAService.csproj",
       "packagesPath": "C:\\Users\\wwg\\.nuget\\packages\\",
-      "outputPath": "H:\\Temp\\NetCore22\\IAService\\obj\\",
+      "outputPath": "I:\\GitCode\\netcore22\\IAService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -733,8 +733,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "H:\\Temp\\NetCore22\\Model\\AModel.csproj": {
-              "projectPath": "H:\\Temp\\NetCore22\\Model\\AModel.csproj"
+            "I:\\GitCode\\netcore22\\Model\\AModel.csproj": {
+              "projectPath": "I:\\GitCode\\netcore22\\Model\\AModel.csproj"
             }
           }
         }

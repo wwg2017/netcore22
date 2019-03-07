@@ -12466,11 +12466,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Temp\\NetCore22\\NetCore22\\NetCore22.csproj",
+      "projectUniqueName": "I:\\GitCode\\netcore22\\NetCore22\\NetCore22.csproj",
       "projectName": "NetCore22",
-      "projectPath": "H:\\Temp\\NetCore22\\NetCore22\\NetCore22.csproj",
+      "projectPath": "I:\\GitCode\\netcore22\\NetCore22\\NetCore22.csproj",
       "packagesPath": "C:\\Users\\wwg\\.nuget\\packages\\",
-      "outputPath": "H:\\Temp\\NetCore22\\NetCore22\\obj\\",
+      "outputPath": "I:\\GitCode\\netcore22\\NetCore22\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12491,20 +12491,20 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "H:\\Temp\\NetCore22\\AddRegist\\AddRegist.csproj": {
-              "projectPath": "H:\\Temp\\NetCore22\\AddRegist\\AddRegist.csproj"
+            "I:\\GitCode\\netcore22\\AddRegist\\AddRegist.csproj": {
+              "projectPath": "I:\\GitCode\\netcore22\\AddRegist\\AddRegist.csproj"
             },
-            "H:\\Temp\\NetCore22\\BaseCore\\ABaseCore.csproj": {
-              "projectPath": "H:\\Temp\\NetCore22\\BaseCore\\ABaseCore.csproj"
+            "I:\\GitCode\\netcore22\\BaseCore\\ABaseCore.csproj": {
+              "projectPath": "I:\\GitCode\\netcore22\\BaseCore\\ABaseCore.csproj"
             },
-            "H:\\Temp\\NetCore22\\IAService\\IAService.csproj": {
-              "projectPath": "H:\\Temp\\NetCore22\\IAService\\IAService.csproj"
+            "I:\\GitCode\\netcore22\\IAService\\IAService.csproj": {
+              "projectPath": "I:\\GitCode\\netcore22\\IAService\\IAService.csproj"
             },
-            "H:\\Temp\\NetCore22\\Model\\AModel.csproj": {
-              "projectPath": "H:\\Temp\\NetCore22\\Model\\AModel.csproj"
+            "I:\\GitCode\\netcore22\\Model\\AModel.csproj": {
+              "projectPath": "I:\\GitCode\\netcore22\\Model\\AModel.csproj"
             },
-            "H:\\Temp\\NetCore22\\Service\\AService.csproj": {
-              "projectPath": "H:\\Temp\\NetCore22\\Service\\AService.csproj"
+            "I:\\GitCode\\netcore22\\Service\\AService.csproj": {
+              "projectPath": "I:\\GitCode\\netcore22\\Service\\AService.csproj"
             }
           }
         }

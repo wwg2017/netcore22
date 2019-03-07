@@ -31,9 +31,11 @@ namespace Repository
                 {
                     dt.Rows.Add(new Object[] { "wwg" + i, i });
                 }
-                CSVEx.ToCsv(dt);
                 var sw = new Stopwatch();
                 sw.Start();
+                CSVEx.ToCsv(dt);
+               
+                
                 MySqlHelpers.BulkLoad(conn, dt);
                 sw.Stop();
                 var p = sw.ElapsedMilliseconds;

@@ -22,3 +22,15 @@ H:\Temp\NetCore22\BaseCore\obj\Debug\netcoreapp2.2\ABaseCore.AssemblyInfo.cs
 H:\Temp\NetCore22\BaseCore\obj\Debug\netcoreapp2.2\ABaseCore.csproj.CopyComplete
 H:\Temp\NetCore22\BaseCore\obj\Debug\netcoreapp2.2\ABaseCore.dll
 H:\Temp\NetCore22\BaseCore\obj\Debug\netcoreapp2.2\ABaseCore.pdb
+I:\GitCode\netcore22\BaseCore\bin\Debug\netcoreapp2.2\ABaseCore.deps.json
+I:\GitCode\netcore22\BaseCore\bin\Debug\netcoreapp2.2\ABaseCore.dll
+I:\GitCode\netcore22\BaseCore\bin\Debug\netcoreapp2.2\ABaseCore.pdb
+I:\GitCode\netcore22\BaseCore\bin\Debug\netcoreapp2.2\AModel.dll
+I:\GitCode\netcore22\BaseCore\bin\Debug\netcoreapp2.2\AModel.pdb
+I:\GitCode\netcore22\BaseCore\obj\Debug\netcoreapp2.2\ABaseCore.csprojAssemblyReference.cache
+I:\GitCode\netcore22\BaseCore\obj\Debug\netcoreapp2.2\ABaseCore.csproj.CoreCompileInputs.cache
+I:\GitCode\netcore22\BaseCore\obj\Debug\netcoreapp2.2\ABaseCore.AssemblyInfoInputs.cache
+I:\GitCode\netcore22\BaseCore\obj\Debug\netcoreapp2.2\ABaseCore.AssemblyInfo.cs
+I:\GitCode\netcore22\BaseCore\obj\Debug\netcoreapp2.2\ABaseCore.csproj.CopyComplete
+I:\GitCode\netcore22\BaseCore\obj\Debug\netcoreapp2.2\ABaseCore.dll
+I:\GitCode\netcore22\BaseCore\obj\Debug\netcoreapp2.2\ABaseCore.pdb

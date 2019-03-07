@@ -4122,11 +4122,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Temp\\NetCore22\\AddRegist\\AddRegist.csproj",
+      "projectUniqueName": "I:\\GitCode\\netcore22\\AddRegist\\AddRegist.csproj",
       "projectName": "AddRegist",
-      "projectPath": "H:\\Temp\\NetCore22\\AddRegist\\AddRegist.csproj",
+      "projectPath": "I:\\GitCode\\netcore22\\AddRegist\\AddRegist.csproj",
       "packagesPath": "C:\\Users\\wwg\\.nuget\\packages\\",
-      "outputPath": "H:\\Temp\\NetCore22\\AddRegist\\obj\\",
+      "outputPath": "I:\\GitCode\\netcore22\\AddRegist\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4147,11 +4147,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "H:\\Temp\\NetCore22\\IAService\\IAService.csproj": {
-              "projectPath": "H:\\Temp\\NetCore22\\IAService\\IAService.csproj"
+            "I:\\GitCode\\netcore22\\IAService\\IAService.csproj": {
+              "projectPath": "I:\\GitCode\\netcore22\\IAService\\IAService.csproj"
             },
-            "H:\\Temp\\NetCore22\\Service\\AService.csproj": {
-              "projectPath": "H:\\Temp\\NetCore22\\Service\\AService.csproj"
+            "I:\\GitCode\\netcore22\\Service\\AService.csproj": {
+              "projectPath": "I:\\GitCode\\netcore22\\Service\\AService.csproj"
             }
           }
         }

@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Temp\\NetCore22\\AComm\\AComm.csproj",
+      "projectUniqueName": "I:\\GitCode\\netcore22\\AComm\\AComm.csproj",
       "projectName": "AComm",
-      "projectPath": "H:\\Temp\\NetCore22\\AComm\\AComm.csproj",
+      "projectPath": "I:\\GitCode\\netcore22\\AComm\\AComm.csproj",
       "packagesPath": "C:\\Users\\wwg\\.nuget\\packages\\",
-      "outputPath": "H:\\Temp\\NetCore22\\AComm\\obj\\",
+      "outputPath": "I:\\GitCode\\netcore22\\AComm\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -14,3 +14,11 @@ H:\Temp\NetCore22\Model\obj\Debug\netcoreapp2.2\AModel.AssemblyInfoInputs.cache
 H:\Temp\NetCore22\Model\obj\Debug\netcoreapp2.2\AModel.AssemblyInfo.cs
 H:\Temp\NetCore22\Model\obj\Debug\netcoreapp2.2\AModel.dll
 H:\Temp\NetCore22\Model\obj\Debug\netcoreapp2.2\AModel.pdb
+I:\GitCode\netcore22\Model\bin\Debug\netcoreapp2.2\AModel.deps.json
+I:\GitCode\netcore22\Model\bin\Debug\netcoreapp2.2\AModel.dll
+I:\GitCode\netcore22\Model\bin\Debug\netcoreapp2.2\AModel.pdb
+I:\GitCode\netcore22\Model\obj\Debug\netcoreapp2.2\AModel.csproj.CoreCompileInputs.cache
+I:\GitCode\netcore22\Model\obj\Debug\netcoreapp2.2\AModel.AssemblyInfoInputs.cache
+I:\GitCode\netcore22\Model\obj\Debug\netcoreapp2.2\AModel.AssemblyInfo.cs
+I:\GitCode\netcore22\Model\obj\Debug\netcoreapp2.2\AModel.dll
+I:\GitCode\netcore22\Model\obj\Debug\netcoreapp2.2\AModel.pdb

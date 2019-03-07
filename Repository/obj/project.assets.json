@@ -4062,11 +4062,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Temp\\NetCore22\\Repository\\ARepository.csproj",
+      "projectUniqueName": "I:\\GitCode\\netcore22\\Repository\\ARepository.csproj",
       "projectName": "ARepository",
-      "projectPath": "H:\\Temp\\NetCore22\\Repository\\ARepository.csproj",
+      "projectPath": "I:\\GitCode\\netcore22\\Repository\\ARepository.csproj",
       "packagesPath": "C:\\Users\\wwg\\.nuget\\packages\\",
-      "outputPath": "H:\\Temp\\NetCore22\\Repository\\obj\\",
+      "outputPath": "I:\\GitCode\\netcore22\\Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4087,17 +4087,17 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "H:\\Temp\\NetCore22\\AComm\\AComm.csproj": {
-              "projectPath": "H:\\Temp\\NetCore22\\AComm\\AComm.csproj"
+            "I:\\GitCode\\netcore22\\AComm\\AComm.csproj": {
+              "projectPath": "I:\\GitCode\\netcore22\\AComm\\AComm.csproj"
             },
-            "H:\\Temp\\NetCore22\\BaseCore\\ABaseCore.csproj": {
-              "projectPath": "H:\\Temp\\NetCore22\\BaseCore\\ABaseCore.csproj"
+            "I:\\GitCode\\netcore22\\BaseCore\\ABaseCore.csproj": {
+              "projectPath": "I:\\GitCode\\netcore22\\BaseCore\\ABaseCore.csproj"
             },
-            "H:\\Temp\\NetCore22\\IARepository\\IARepository.csproj": {
-              "projectPath": "H:\\Temp\\NetCore22\\IARepository\\IARepository.csproj"
+            "I:\\GitCode\\netcore22\\IARepository\\IARepository.csproj": {
+              "projectPath": "I:\\GitCode\\netcore22\\IARepository\\IARepository.csproj"
             },
-            "H:\\Temp\\NetCore22\\Model\\AModel.csproj": {
-              "projectPath": "H:\\Temp\\NetCore22\\Model\\AModel.csproj"
+            "I:\\GitCode\\netcore22\\Model\\AModel.csproj": {
+              "projectPath": "I:\\GitCode\\netcore22\\Model\\AModel.csproj"
             }
           }
         }

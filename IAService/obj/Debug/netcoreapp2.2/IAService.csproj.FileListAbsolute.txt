@@ -22,3 +22,15 @@ H:\Temp\NetCore22\IAService\obj\Debug\netcoreapp2.2\IAService.AssemblyInfo.cs
 H:\Temp\NetCore22\IAService\obj\Debug\netcoreapp2.2\IAService.csproj.CopyComplete
 H:\Temp\NetCore22\IAService\obj\Debug\netcoreapp2.2\IAService.dll
 H:\Temp\NetCore22\IAService\obj\Debug\netcoreapp2.2\IAService.pdb
+I:\GitCode\netcore22\IAService\bin\Debug\netcoreapp2.2\IAService.deps.json
+I:\GitCode\netcore22\IAService\bin\Debug\netcoreapp2.2\IAService.dll
+I:\GitCode\netcore22\IAService\bin\Debug\netcoreapp2.2\IAService.pdb
+I:\GitCode\netcore22\IAService\bin\Debug\netcoreapp2.2\AModel.dll
+I:\GitCode\netcore22\IAService\bin\Debug\netcoreapp2.2\AModel.pdb
+I:\GitCode\netcore22\IAService\obj\Debug\netcoreapp2.2\IAService.csprojAssemblyReference.cache
+I:\GitCode\netcore22\IAService\obj\Debug\netcoreapp2.2\IAService.csproj.CoreCompileInputs.cache
+I:\GitCode\netcore22\IAService\obj\Debug\netcoreapp2.2\IAService.AssemblyInfoInputs.cache
+I:\GitCode\netcore22\IAService\obj\Debug\netcoreapp2.2\IAService.AssemblyInfo.cs
+I:\GitCode\netcore22\IAService\obj\Debug\netcoreapp2.2\IAService.csproj.CopyComplete
+I:\GitCode\netcore22\IAService\obj\Debug\netcoreapp2.2\IAService.dll
+I:\GitCode\netcore22\IAService\obj\Debug\netcoreapp2.2\IAService.pdb
