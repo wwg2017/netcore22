@@ -1,0 +1,14 @@
+﻿
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<div style="margin-top:50px;">
+    年龄 <input id="age" type="text" value="" name="" />
+    姓名 <input id="name" type="text" value="" name="" />
+    <input value="提交" type="button" id="sumit" />
+</div>
+<script>
+    $("#sumit").click(function () {
+        $.post("/Home/Save", { Age: $("#age").val(), Name: $("#name").val() }, function (data) {
+            $("#aged").html(data);
+        });
+    });
+</script>

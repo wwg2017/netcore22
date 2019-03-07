@@ -1,0 +1,16 @@
+I:\学习\NetCore22\Model\bin\Debug\netcoreapp2.2\AModel.deps.json
+I:\学习\NetCore22\Model\bin\Debug\netcoreapp2.2\AModel.dll
+I:\学习\NetCore22\Model\bin\Debug\netcoreapp2.2\AModel.pdb
+I:\学习\NetCore22\Model\obj\Debug\netcoreapp2.2\AModel.csproj.CoreCompileInputs.cache
+I:\学习\NetCore22\Model\obj\Debug\netcoreapp2.2\AModel.AssemblyInfoInputs.cache
+I:\学习\NetCore22\Model\obj\Debug\netcoreapp2.2\AModel.AssemblyInfo.cs
+I:\学习\NetCore22\Model\obj\Debug\netcoreapp2.2\AModel.dll
+I:\学习\NetCore22\Model\obj\Debug\netcoreapp2.2\AModel.pdb
+H:\Temp\NetCore22\Model\bin\Debug\netcoreapp2.2\AModel.deps.json
+H:\Temp\NetCore22\Model\bin\Debug\netcoreapp2.2\AModel.dll
+H:\Temp\NetCore22\Model\bin\Debug\netcoreapp2.2\AModel.pdb
+H:\Temp\NetCore22\Model\obj\Debug\netcoreapp2.2\AModel.csproj.CoreCompileInputs.cache
+H:\Temp\NetCore22\Model\obj\Debug\netcoreapp2.2\AModel.AssemblyInfoInputs.cache
+H:\Temp\NetCore22\Model\obj\Debug\netcoreapp2.2\AModel.AssemblyInfo.cs
+H:\Temp\NetCore22\Model\obj\Debug\netcoreapp2.2\AModel.dll
+H:\Temp\NetCore22\Model\obj\Debug\netcoreapp2.2\AModel.pdb

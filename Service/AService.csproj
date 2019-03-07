@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BaseCore\ABaseCore.csproj" />
+    <ProjectReference Include="..\IARepository\IARepository.csproj" />
+    <ProjectReference Include="..\IAService\IAService.csproj" />
+    <ProjectReference Include="..\Model\AModel.csproj" />
+    <ProjectReference Include="..\Repository\ARepository.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,6 @@
+I:\学习\NetCore22\BaseCore\bin\Debug\netcoreapp2.2\BaseCore.deps.json
+I:\学习\NetCore22\BaseCore\bin\Debug\netcoreapp2.2\BaseCore.dll
+I:\学习\NetCore22\BaseCore\obj\Debug\netcoreapp2.2\BaseCore.csprojAssemblyReference.cache
+I:\学习\NetCore22\BaseCore\obj\Debug\netcoreapp2.2\BaseCore.csproj.CoreCompileInputs.cache
+I:\学习\NetCore22\BaseCore\obj\Debug\netcoreapp2.2\BaseCore.AssemblyInfoInputs.cache
+I:\学习\NetCore22\BaseCore\obj\Debug\netcoreapp2.2\BaseCore.AssemblyInfo.cs

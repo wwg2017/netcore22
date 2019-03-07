@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "IAService/1.0.0": {
+        "dependencies": {
+          "AModel": "1.0.0"
+        },
+        "runtime": {
+          "IAService.dll": {}
+        }
+      },
+      "AModel/1.0.0": {
+        "runtime": {
+          "AModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IAService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

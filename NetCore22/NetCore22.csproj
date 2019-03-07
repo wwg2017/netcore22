@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <UserSecretsId>d29f3fe6-341a-4696-a1ae-d4221f52aa29</UserSecretsId>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.0.2105168" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <ProjectReference Include="..\AddRegist\AddRegist.csproj" />
+    <ProjectReference Include="..\BaseCore\ABaseCore.csproj" />
+    <ProjectReference Include="..\IAService\IAService.csproj" />
+    <ProjectReference Include="..\Model\AModel.csproj" />
+    <ProjectReference Include="..\Service\AService.csproj" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <Folder Include="UpTemp\" />
+  </ItemGroup>
+
+</Project>
